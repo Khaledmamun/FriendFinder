@@ -1,2 +1,8 @@
 # FriendFinder
-This full-stack site will take in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+Express server application used to find a friend who is the best match based on the user's answers to the survey.
+
+NPM packages used:
+
+1. express
+2. body-parser
+3. path 
